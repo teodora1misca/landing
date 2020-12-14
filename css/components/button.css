@@ -1,0 +1,18 @@
+.btn-orange {
+	background-color: #DB6400;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora', serif;
+}
+
+.btn-grey {
+	background-color: #DB6400;
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Lora', serif;
+	font-size: 15px;
+}
